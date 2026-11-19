@@ -1,4 +1,4 @@
-![GravWave-Lab cover](assets/cover.png)
+![GravWave-Lab cover](GravWave-Lab%20cover%20%281%29.png)
 
 # GravWave-Lab 🌊⚛️
 
